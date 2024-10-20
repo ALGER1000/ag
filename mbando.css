@@ -1,0 +1,23 @@
+body {
+    background-image:url(bbb.PNG);
+    color:aliceblue;
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+   background-attachment: fixed;
+}
+h1{
+    text-align: center;
+    margin-top: 20px;
+}
+h2{
+    text-align: center;
+    color: black;
+}
+h5{
+  text-align: center;  
+  color: blue;
+}
+u{
+    color: white;
+}
